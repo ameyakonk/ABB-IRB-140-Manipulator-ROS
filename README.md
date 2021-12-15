@@ -33,7 +33,7 @@ ros-noetic-moveit-visual-tools
 ```
 cd <catkin workspace>/src
 sudo apt-get install git
-git clone --recursive https://github.com/HrushikeshBudhale/decluttering_domestic_robot.git
+git clone --recursive https://github.com/ameyakonk/ENPM662_Final_Project.git
 cd ..
 catkin build
 source ./devel/setup.bash
