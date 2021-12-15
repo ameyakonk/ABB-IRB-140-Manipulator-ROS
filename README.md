@@ -6,13 +6,27 @@ from component tray and place on the PCB. The manipulator is used for precise, e
 attached a camera at the end effector of the robot making it versatile for various functionalities.
 
 ### Development Team
-Ameya Konkar
+Ameya Konkar  UID: 118191058
+M.Eng in Robotics, University of Maryland, College Park
+
+Ninad Harishchandrakar  UID: 118150819
+M.Eng in Robotics, University of Maryland, College Park
 
 ### External Dependencies
-- [ROS Melodic](http://wiki.ros.org/melodic/Installation/Ubuntu)
+- [ROS Noetic](http://wiki.ros.org/noetic/Installation/Ubuntuu)
 - [Gazebo](http://gazebosim.org/)
-- [Moveit](https://moveit.ros.org/)
 - [Opencv](https://github.com/opencv/opencv)
+
+```
+ros-noetic-gazebo-ros-control               
+ros-noetic-joint-state-controller           
+ros-noetic-joint-state-publisher-gui        
+ros-noetic-controller-manager               
+ros-noetic-joint-trajectory-controller      
+ros-noetic-rqt-joint-trajectory-controller  
+ros-noetic-moveit                           
+ros-noetic-moveit-visual-tools              
+```
 
 ### Installation instructions
 
